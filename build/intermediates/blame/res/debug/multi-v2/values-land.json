@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/daheekim/.gradle/caches/transforms-3/95b5d9ebdbfc9d07c27d81f2c7d3e7a6/transformed/appcompat-1.4.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "/Users/daheekim/.gradle/caches/transforms-3/5372293c25b161bf45704752d6584909/transformed/mediarouter-1.2.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "5,6,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "264,339,417",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "334,412,487"
+                    }
+                }
+            ]
+        }
+    ]
+}

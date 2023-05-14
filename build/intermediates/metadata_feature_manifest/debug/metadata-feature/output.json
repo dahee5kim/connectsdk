@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "applicationId": "com.connectsdk.sampler",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "METADATA_FEATURE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 12,
+        "versionName": "1.6.0",
+        "outputFile": "Connect-SDK-Android-API-Sampler-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {}
+    }
+  ]
+}

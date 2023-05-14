@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.connectsdk.sampler",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 12,
+      "versionName": "1.6.0",
+      "outputFile": "Connect-SDK-Android-API-Sampler-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}

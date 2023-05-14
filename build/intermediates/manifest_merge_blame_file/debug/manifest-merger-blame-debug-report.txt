@@ -1,0 +1,180 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.connectsdk.sampler"
+4    android:versionCode="12"
+5    android:versionName="1.6.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:7:5-66
+11-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:8:5-78
+12-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:8:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:9:5-75
+13-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:9:22-73
+14    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+14-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:10:5-85
+14-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:10:22-83
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:11:5-81
+15-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:11:22-78
+16    <uses-permission android:name="android.permission.GET_TASKS" />
+16-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:12:5-68
+16-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:12:22-65
+17
+18    <!-- Permissions for LG Cast Screen Mirroring -->
+19    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+19-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:12:5-71
+19-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:12:22-68
+20    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- Permissions for LG Cast Remote Camera -->
+20-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:13:5-77
+20-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:13:22-74
+21    <uses-permission android:name="android.permission.CAMERA" />
+21-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:18:5-65
+21-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:18:22-62
+22
+23    <application
+23-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:14:5-34:19
+24        android:name="com.connectsdk.sampler.MainApplication"
+24-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:15:9-62
+25        android:allowBackup="true"
+25-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:16:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.7.0] /Users/daheekim/.gradle/caches/transforms-3/b9e4376e452ce4f1a2bbb1fc4b534124/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:icon="@drawable/ic_launcher"
+29-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:17:9-45
+30        android:label="@string/app_name"
+30-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:18:9-41
+31        android:testOnly="true"
+32        android:theme="@style/AppTheme"
+32-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:19:9-40
+33        android:usesCleartextTraffic="true" >
+33-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:20:9-44
+34        <activity
+34-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:22:9-33:20
+35            android:name="com.connectsdk.sampler.MainActivity"
+35-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:23:13-63
+36            android:exported="true"
+36-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:27:13-36
+37            android:label="@string/app_name"
+37-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:25:13-45
+38            android:screenOrientation="portrait"
+38-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:26:13-49
+39            android:windowSoftInputMode="stateHidden" >
+39-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:24:13-54
+40            <intent-filter>
+40-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:28:13-32:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:29:17-69
+41-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:29:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:31:17-77
+43-->/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/AndroidManifest.xml:31:27-74
+44            </intent-filter>
+45        </activity>
+46        <!-- LG CAST Screen Mirroring Service -->
+47        <service
+47-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:27:9-37:19
+48            android:name="com.connectsdk.service.webos.lgcast.screenmirroring.service.MirroringService"
+48-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:28:13-104
+49            android:exported="false"
+49-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:29:13-37
+50            android:foregroundServiceType="mediaProjection" >
+50-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:30:13-60
+51            <intent-filter>
+51-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:31:13-36:29
+52                <action android:name="android.intent.action.SCREEN_ON" />
+52-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:32:17-74
+52-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:32:25-71
+53                <action android:name="android.intent.action.SCREEN_OFF" />
+53-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:33:17-75
+53-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:33:25-72
+54                <action android:name="android.media.VOLUME_CHANGED_ACTION" />
+54-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:34:17-78
+54-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:34:25-75
+55                <action android:name="android.intent.action.CONFIGURATION_CHANGED" />
+55-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:35:17-86
+55-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:35:25-83
+56            </intent-filter>
+57        </service> <!-- LG CAST Remote Camera Service -->
+58        <service
+58-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:40:9-48:19
+59            android:name="com.connectsdk.service.webos.lgcast.remotecamera.service.CameraService"
+59-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:41:13-98
+60            android:exported="false" >
+60-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:42:13-37
+61            <intent-filter>
+61-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:43:13-47:29
+62                <action android:name="android.intent.action.SCREEN_ON" />
+62-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:32:17-74
+62-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:32:25-71
+63                <action android:name="android.intent.action.SCREEN_OFF" />
+63-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:33:17-75
+63-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:33:25-72
+64                <action android:name="android.intent.action.CONFIGURATION_CHANGED" />
+64-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:35:17-86
+64-->[com.github.ConnectSDK:Connect-SDK-Android:2.0.0] /Users/daheekim/.gradle/caches/transforms-3/6e019ba4c4498e91c99a0a7a70f05ddf/transformed/jetified-Connect-SDK-Android-2.0.0/AndroidManifest.xml:35:25-83
+65            </intent-filter>
+66        </service>
+67
+68        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+68-->[com.google.android.gms:play-services-cast-framework:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/bbee032ccf61b3a9b30d29d203da7b9d/transformed/jetified-play-services-cast-framework-9.4.0/AndroidManifest.xml:6:9-100
+68-->[com.google.android.gms:play-services-cast-framework:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/bbee032ccf61b3a9b30d29d203da7b9d/transformed/jetified-play-services-cast-framework-9.4.0/AndroidManifest.xml:6:19-97
+69
+70        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+70-->[com.google.android.gms:play-services-cast-framework:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/bbee032ccf61b3a9b30d29d203da7b9d/transformed/jetified-play-services-cast-framework-9.4.0/AndroidManifest.xml:7:9-104
+70-->[com.google.android.gms:play-services-cast-framework:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/bbee032ccf61b3a9b30d29d203da7b9d/transformed/jetified-play-services-cast-framework-9.4.0/AndroidManifest.xml:7:18-101
+71        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
+71-->[com.google.android.gms:play-services-cast-framework:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/bbee032ccf61b3a9b30d29d203da7b9d/transformed/jetified-play-services-cast-framework-9.4.0/AndroidManifest.xml:8:9-92
+71-->[com.google.android.gms:play-services-cast-framework:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/bbee032ccf61b3a9b30d29d203da7b9d/transformed/jetified-play-services-cast-framework-9.4.0/AndroidManifest.xml:8:18-90
+72
+73        <activity
+73-->[com.google.android.gms:play-services-base:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/8fdb729fbb3c37df0be9e802200cae0f/transformed/jetified-play-services-base-9.4.0/AndroidManifest.xml:20:9-22:45
+74            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+74-->[com.google.android.gms:play-services-base:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/8fdb729fbb3c37df0be9e802200cae0f/transformed/jetified-play-services-base-9.4.0/AndroidManifest.xml:20:19-85
+75            android:exported="false"
+75-->[com.google.android.gms:play-services-base:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/8fdb729fbb3c37df0be9e802200cae0f/transformed/jetified-play-services-base-9.4.0/AndroidManifest.xml:22:19-43
+76            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+76-->[com.google.android.gms:play-services-base:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/8fdb729fbb3c37df0be9e802200cae0f/transformed/jetified-play-services-base-9.4.0/AndroidManifest.xml:21:19-78
+77
+78        <meta-data
+78-->[com.google.android.gms:play-services-basement:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/2e2c854f4786d29ec42a1fe9b90c6bd6/transformed/jetified-play-services-basement-9.4.0/AndroidManifest.xml:21:9-23:69
+79            android:name="com.google.android.gms.version"
+79-->[com.google.android.gms:play-services-basement:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/2e2c854f4786d29ec42a1fe9b90c6bd6/transformed/jetified-play-services-basement-9.4.0/AndroidManifest.xml:22:13-58
+80            android:value="@integer/google_play_services_version" />
+80-->[com.google.android.gms:play-services-basement:9.4.0] /Users/daheekim/.gradle/caches/transforms-3/2e2c854f4786d29ec42a1fe9b90c6bd6/transformed/jetified-play-services-basement-9.4.0/AndroidManifest.xml:23:13-66
+81
+82        <provider
+82-->[androidx.emoji2:emoji2:1.0.0] /Users/daheekim/.gradle/caches/transforms-3/4d40ec21232b611dd716b892ede208d6/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+83            android:name="androidx.startup.InitializationProvider"
+83-->[androidx.emoji2:emoji2:1.0.0] /Users/daheekim/.gradle/caches/transforms-3/4d40ec21232b611dd716b892ede208d6/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+84            android:authorities="com.connectsdk.sampler.androidx-startup"
+84-->[androidx.emoji2:emoji2:1.0.0] /Users/daheekim/.gradle/caches/transforms-3/4d40ec21232b611dd716b892ede208d6/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+85            android:exported="false" >
+85-->[androidx.emoji2:emoji2:1.0.0] /Users/daheekim/.gradle/caches/transforms-3/4d40ec21232b611dd716b892ede208d6/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+86            <meta-data
+86-->[androidx.emoji2:emoji2:1.0.0] /Users/daheekim/.gradle/caches/transforms-3/4d40ec21232b611dd716b892ede208d6/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+87                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+87-->[androidx.emoji2:emoji2:1.0.0] /Users/daheekim/.gradle/caches/transforms-3/4d40ec21232b611dd716b892ede208d6/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+88                android:value="androidx.startup" />
+88-->[androidx.emoji2:emoji2:1.0.0] /Users/daheekim/.gradle/caches/transforms-3/4d40ec21232b611dd716b892ede208d6/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+89            <meta-data
+89-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/daheekim/.gradle/caches/transforms-3/b5a10263a72c0b80aefb6f8f76c83ace/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+90                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+90-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/daheekim/.gradle/caches/transforms-3/b5a10263a72c0b80aefb6f8f76c83ace/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+91                android:value="androidx.startup" />
+91-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/daheekim/.gradle/caches/transforms-3/b5a10263a72c0b80aefb6f8f76c83ace/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+92        </provider>
+93    </application>
+94
+95</manifest>

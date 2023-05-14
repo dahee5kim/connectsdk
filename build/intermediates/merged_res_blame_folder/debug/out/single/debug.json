@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-hdpi_ic_drawer.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-xhdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-xhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/layout_fragment_tv.xml.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/layout/fragment_tv.xml"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/layout_fragment_system.xml.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/layout/fragment_system.xml"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/layout_fragment_navigation_drawer.xml.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-mdpi_icon_15307.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-mdpi/icon_15307.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-xhdpi_icon_17114.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-xhdpi/icon_17114.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-xhdpi_icon_17183.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-xhdpi/icon_17183.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-mdpi_icon_17114.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-mdpi/icon_17114.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-xhdpi_ic_drawer.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-xhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-xhdpi_icon_3330.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-xhdpi/icon_3330.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/layout_channel_item.xml.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/layout/channel_item.xml"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/menu_main.xml.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/layout_fragment_webapp.xml.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/layout/fragment_webapp.xml"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/layout_fragment_apps.xml.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/layout/fragment_apps.xml"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-xhdpi_icon_12676.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-xhdpi/icon_12676.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-mdpi_icon_3330.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-mdpi/icon_3330.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-xhdpi_icon_15111.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-xhdpi/icon_15111.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/layout_fragment_media_player.xml.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/layout/fragment_media_player.xml"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-mdpi_icon_17183.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-mdpi/icon_17183.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-xhdpi_icon_15307.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-xhdpi/icon_15307.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-mdpi_ic_drawer.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-mdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-mdpi_icon_12676.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-mdpi/icon_12676.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-mdpi_icon_15111.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-mdpi/icon_15111.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-xxhdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-xxhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-hdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-hdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/layout_fragment_fiveway.xml.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/layout/fragment_fiveway.xml"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/layout_app_item.xml.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/layout/app_item.xml"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-xxhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/build/intermediates/merged_res/debug/drawable-mdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/daheekim/Desktop/sample/Connect-SDK-Android-API-Sampler/res/drawable-mdpi/drawer_shadow.9.png"
+    }
+]
