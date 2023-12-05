@@ -17,7 +17,7 @@ For more information, visit our [website](http://www.connectsdk.com/).
 ##Setup with Android Studio
 1. Download the Sampler project
     ```
-    git clone https://github.com/ConnectSDK/Connect-SDK-Android-API-Sampler.git
+    git clone https://github.com/dahee5kim/connectsdk
     ```
 2. Import the Sampler project into Android Studio
 
